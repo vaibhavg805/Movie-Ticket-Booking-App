@@ -32,6 +32,9 @@ out/
 # Env files
 .env
 
+# Ignore Docker Compose file
+docker-compose.yml
+
 
 ### NetBeans ###
 /nbproject/private/
